@@ -1,4 +1,4 @@
-# Gmail Automation with CrewAI 📧✨
+<!-- # Gmail Automation with CrewAI 📧✨
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCApiD66gf36M9hZanbjgNaw?style=social)](https://www.youtube.com/@tonykipkemboi)
 [![GitHub followers](https://img.shields.io/github/followers/tonykipkemboi?style=social)](https://github.com/tonykipkemboi)
@@ -12,7 +12,7 @@ Gmail Automation with CrewAI is an intelligent email management system that uses
 ## ✨ Features
 
 ![Stars](https://img.shields.io/github/stars/tonykipkemboi/crewai-gmail-automation?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/tonykipkemboi/crewai-gmail-automation) 
+![Last Commit](https://img.shields.io/github/last-commit/tonykipkemboi/crewai-gmail-automation)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 - **📋 Email Categorization**: Automatically categorizes emails into specific types (newsletters, promotions, personal, etc.)
@@ -156,7 +156,7 @@ The application will:
 
 ## 🌟 Special Features
 
-- **📅 Smart Deletion Rules**: 
+- **📅 Smart Deletion Rules**:
   - Promotions older than 2 days are automatically deleted
   - Newsletters older than 7 days (unless HIGH priority) are deleted
   - Shutterfly emails are always deleted regardless of age
@@ -186,4 +186,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Ollama](https://ollama.com/library)
 - [Gemini](https://ai.google.com/gemini-api)
 - [OpenAI](https://openai.com/api/)
-
+ -->
